@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.2280" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2021-10-25T17:39:09" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="kanban_boards_api" timestamp="2021-10-25T17:39:09" tests="4" file="D:\zproyectos_node\atests\5d837505-f708-45c7-825b-963fccec744a\test\index.spec.js" time="0.2280" failures="0">
+    <testcase name="kanban_boards_api should create a new item in the board" time="0.0520" classname="should create a new item in the board">
+    </testcase>
+    <testcase name="kanban_boards_api should update the stage for the item" time="0.0440" classname="should update the stage for the item">
+    </testcase>
+    <testcase name="kanban_boards_api should return with status 400 if the stage is not valid" time="0.0380" classname="should return with status 400 if the stage is not valid">
+    </testcase>
+    <testcase name="kanban_boards_api should update the stages correctly for a series of requests" time="0.0940" classname="should update the stages correctly for a series of requests">
+    </testcase>
+  </testsuite>
+</testsuites>
